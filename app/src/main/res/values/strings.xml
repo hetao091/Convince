@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">确信签章演示</string>
+
+    <string name="sign">签字</string>
+    <string name="seal">签章</string>
+    <string name="check">验签</string>
+
+    <string name="title_toolbar_draw">签字板</string>
+    <string name="title_toolbar_main">山东确信签章演示</string>
+</resources>

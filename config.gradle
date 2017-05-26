@@ -1,0 +1,25 @@
+ext.versions = [
+        // 本地仓库版本
+        compileSdk: 25,
+        buildTools: '25.0.3',
+        minSdk    : 14,
+        targetSdk : 25,
+]
+
+
+ext.appConfig = [
+        // app 相关信息总配置
+        appmajor     : 1,
+        appminor     : 0,
+        appId        : 'com.agile.convince',
+        keyAlias     : 'agilestar',
+        keyPassword  : 'Agilestarcn@2016',
+        storeFile    : 'Esign.jks',
+        storePassword: 'Agilestarcn@2016',
+        betaAPI      : 'http://beta.labelnet.cn',
+        betaName     : '@string/app_name',
+        betaLogo     : '@mipmap/ic_launcher_round',
+        proAPI       : 'http://pro.labelnet.cn',
+        proName      : '@string/app_name',
+        proLogo      : '@mipmap/ic_launcher',
+]

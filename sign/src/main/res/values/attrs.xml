@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ScrollBar">
+        <attr name="sb_handlerColor" format="color|reference" />
+        <attr name="sb_indicatorColor" format="color|reference" />
+        <attr name="sb_indicatorTextColor" format="color|reference" />
+        <attr name="sb_horizontal" format="boolean|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="SignaturePad">
+        <attr name="minWidth" format="float"/>
+        <attr name="maxWidth" format="float"/>
+        <attr name="penColor" format="color"/>
+        <attr name="velocityFilterWeight" format="float"/>
+    </declare-styleable>
+</resources>

@@ -1,0 +1,19 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".signature.DrawActivity">
+
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="1"
+        android:title="清除"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/action_confirm"
+        android:orderInCategory="1"
+        android:title="确定"
+        app:showAsAction="ifRoom"/>
+
+</menu>
